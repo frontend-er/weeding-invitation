@@ -44,6 +44,10 @@ const names = [
     'name': "Даниил Опинка"
   },
   {
+    'path': 'moskovka',
+    'name': "Яна Московка"
+  },
+  {
     'path': 'tanas',
     'name': "Даниил Танас"
   },
@@ -113,7 +117,7 @@ const names = [
 
   {
     'path': 'kigai',
-    'name': "  Юлия и Виктор Кигай "
+    'name': "Юлия и Виктор Кигай "
   },
   {
     'path': 'pimenova',
@@ -142,6 +146,46 @@ const names = [
   {
     'path': 'afinescu',
     'name': "Ирина и Раду Афтинеску"
+  },
+  {
+    'path': 'bajenoviIuliaOleg',
+    'name': "Олег и Юлия Баженовы"
+  },
+  {
+    'path': 'ovadenco',
+    'name': "Игорь Оваденко и Ира "
+  },
+  {
+    'path': 'novitki',
+    'name': "Никита Новицкий"
+  },
+  {
+    'path': 'baka',
+    'name': "Катя Бака"
+  },
+  {
+    'path': 'cetirini',
+    'name': "Оля и Саша Четырины"
+  },
+  {
+    'path': 'cetirinNikita',
+    'name': "Никита Четырин"
+  },
+  {
+    'path': 'bajenovaSaha',
+    'name': "Саша Баженова"
+  },
+  {
+    'path': 'rita',
+    'name': "Бабушка Рита Павлычева"
+  },
+  {
+    'path': 'bajenoviLiliaVova',
+    'name': "Лилия и Владимир Баженовы"
+  },
+  {
+    'path': 'pavliceva',
+    'name': "Надя Павлычева"
   },
 ]
 
