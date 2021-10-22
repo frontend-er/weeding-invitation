@@ -163,6 +163,10 @@ ReactDOM.render(
           })
         }
 
+        <Route path='/'>
+          <App />
+        </Route>
+
       </Switch>
     </Router>
   </React.StrictMode>,

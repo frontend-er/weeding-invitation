@@ -42,7 +42,7 @@ const variants6 = {
 }
 
 
-function App({ name }) {
+function App({ name = '' }) {
 
   const [isOpen, setIsOpen] = useState(false)
   const [isLetter, setIsLetter] = useState(false)
