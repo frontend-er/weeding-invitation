@@ -187,6 +187,25 @@ const names = [
     'path': 'pavliceva',
     'name': "Надя Павлычева"
   },
+  },
+  {
+    'path': 'vasiltov',
+    'name': "Анна и Геннадий Васильцов"
+  },
+  
+  {
+    'path': 'constantinov',
+    'name': "Инна и Виктор Константинов"
+  
+  },
+  {
+    'path': 'capernauli',
+    'name': "Вера Карапунарлы"
+  },
+   {
+    'path': 'zaplitnaia',
+    'name': "Дарья Заплитная"
+  },
 ]
 
 
